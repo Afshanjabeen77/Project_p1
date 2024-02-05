@@ -1,5 +1,5 @@
 # Project_p1
-1.Title of the project:
+ 1.Title of the project:
    Global Inflation Insights Hub 2.0
 
 2. Tech Stack:  Programming Language: Python
